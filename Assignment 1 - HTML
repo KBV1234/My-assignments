@@ -1,0 +1,178 @@
+<!doctype html>
+<html>
+  <head>
+    <title>First assignment</title>
+  </head>
+  <body>
+    <p id="top">
+      Born on 2008 he became debuted under19 player for international cricket team.
+      he was born on june 19,1988 in Delhi in india. he is a right handed
+      batsman and he is the only cricket.
+    </p>
+    <h1>VIRAT KOHLI</h1>
+
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <title>Internship.studio Images</title>
+      </head>
+      <body>
+        <h1></h1>
+        <p>
+          <img src="virat.jpg" height="250" width="150">
+      </body>
+    </html>
+    
+    <h2>info:Born	5 November 1988 (age 35) Delhi, India<br> <img src="delhi.jpg" height="50" width="100">
+   <br> Height: 5 ft 9 in (175 cm)[2]<br>
+    Batting: Right-handed<br>
+    Bowling: Right-arm medium<br>
+    Role	 : Top-order batter<br>
+    Relations: Anushka Sharma (wife)<br>
+    Captaincy: 2017-2022<br>
+    IPL captaincy: 2013-2021</h2>
+
+    <h3>Ups/downs: 2008-present-Whole career: Virat Kohli,born 5 November 1988) is an Indian international cricketer and the former captain of the Indian national cricket team.<br> He currently represents Royal Challengers Bangalore in the IPL and Delhi in domestic cricket.<br>Kohli is widely regarded as one of the greatest batsmen in the history of cricket, and the best of 21st century.[3] He is the highest run scorer in T20I and IPL.<br><img src="Virat-Kohli-ipl.jpg" height="200" width="150"><br> In 2020, the International Cricket Council named him the male cricketer of the decade. Kohli is currently fourth-highest run-scorer in international cricket and stands second in the list of most international centuries scored.He also holds the record for scoring the most centuries in One Day International cricket.[4][5] Kohli was a member of the Indian team that won the 2011 Cricket World Cup and 2013 ICC Champions Trophy</h3>
+</h3>
+
+    <h4>His-thoughts</h4>
+    <img src="kohli-jpg.webp" height="200" width="150">
+
+    <h5>Why he is inspired to me: Never giveup at any situation<br>Self belief and very immensive</h5>
+
+    <h6>When he became an emperor in Cricket history- Record breaking captaincy and batting woes
+    In April 2019, he was named the captain of India's squad for the 2019 Cricket World Cup.<br>[255] On 16 June 2019, in India's match against Pakistan, Kohli became the fastest batsman in terms of innings to score 11,000 runs in ODI cricket.<br>He reached the landmark in his 222nd innings.[256] Eleven days later in the match against the West Indies, Kohli became the fastest cricketer in terms of innings to score 20,000 runs in international cricket, doing so in his 417th innings.<br>[257] Kohli scored five consecutive fifty plus scores in the tournament.<br>Nonetheless, India lost the semi-final against New Zealand in which Kohli was out for just a run</h6>
+
+    <p>This man story should gona be a very intresting</p>
+
+    <p>Virat kohli is my fav crio.And he is a <strong>King</strong></p>
+    <hr />
+    <p>
+      He is <i>Ruling</i> the cricket <b>era</b> from <br />2013 in all three
+      formats.And became the captain in 2017 for 3 forms, in his captaincy we
+      entered into <u>2 finals, 1 semifinal, and one knockouts</u> .After all he
+      became a successfull captain with 50.01% and gives retirement in 2021. Now
+      he cross the king stage and became a emperor in the world. he just scored
+      80cen in only lower innings and cross his fav player Sachin Tendulker in
+      one day form.
+    </p>
+  </body>
+
+  <!doctype html>
+  <html>
+    <head>
+      <title>Hyperlinks</title>
+    </head>
+
+    <body>
+      <p>
+        <a href="https://www.cricbuzz.com/profiles/1413/virat-kohli">
+          Click here to visit the stats of Virat
+        </a>
+      </p>
+
+      <p>
+        <a href="index.html">Click here to visit my home page of my website</a>
+      </p>
+
+      <p><a href="#top">Click here to go back of our webpage</a></p>
+
+    </body>
+  </html>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Internship.studio: iframe and HTML5</title>
+  </head>
+  <body>
+
+    <iframe src="https://listli.in/virat-kohli-brand-ambassador-list/" height="500" width="500" frameborder="0"></iframe>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MXfEQChmq_Q?si=DZbqx3bT89jbr-a0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <nav>
+      <a href="https://www.myntra.com/virat-kohli-t-shirt">Myntra</a><br>
+      <a href="https://in.puma.com/in/">puma</a><br>
+      <a href="https://www.audi.in/">Audi</a>
+    </nav>
+
+    <section>
+      
+      <h3>virats on MYNTRA</h3>
+      <p>Myntra scores big with Virat Kohli as their new fashion icon Sunder Balasubramanian, chief marketing officer of Myntra, said,We are extremely happy to welcome Virat as our newest brand ambassador.He is a true inspiration to millions of Indians and his style has influenced young India. We believe that this association will build salience with Myntra and enable us to connect with his fan base.</p>
+      <img src="th.jpg">
+      
+    </section>
+
+    <section>
+      
+      <h3>virats on PUMA</h3>
+      <P>When Puma got Virat Kohli to engage one-on-one with its consumers online and generated 1.2 million conversations across the country in just 15 days.Amplify.ai, a global leader in conversational AI has partnered with sports brand PUMA for their latest consumer engagement campaign to launch PUMA NITRO running shoes in India. The conversational AI campaign became a huge success by generating more than 1.2 million conversations across the country in just 15 days.</P>
+      <img src="puma.jpg">
+      
+    </section> 
+
+   
+    <section>
+      
+      <h3>virats on AUDI</h3>
+      <P>AUDI is one of the most popular luxury car brands in India. Audi cars are well known around the world for their plush built quality and potent engine options. Meanwhile, the ongoing pandemic has affected almost every automaker in the country. To regain the sales momentum, a few weeks back, Audi India started accepting online bookings for their cars. Recently, the automaker has released a new YouTube video featuring our cricket team captain Virat Kohli, who is also the brand ambassador of Audi India. The video has been uploaded on the company’s official YouTube channel. In the video, Virat says that from the past few months, things around the world have got quite slow.</P>
+      <img src="OIP.jpg">
+      
+    </section>
+
+    <article>
+      <h2>Articals about Virat kohli</h2>
+      <p>Virat Kohli first stood in as captain in a 2013 three-country series in the West Indies when MS Dhoni, the Indian captain at that time, was injured, and continued to lead for the rest of the series. He subsequently led India in an ODI series against Zimbabwe when several senior players were rested. Kohli also captained India in the 2014 Asia Cup in Dhoni’s absence, scoring one hundred, but India failed to reach the final.
+
+      Kohli has always been an aggressive batsman, and he showed this facet in his first Test captaincy, when Dhoni was injured before a match against Australia in Adelaide in 2014. Not content with a century in his captaincy debut in the first innings, Kohli showed he would not play for a draw as many past Indian captains had, scoring 141 in the second innings as India came close to chasing a challenging 364. After Dhoni returned for the second Test, Kohli took over again in the third with Dhoni injured again and scored a century and a fifty as India drew the Test. Dhoni retired after the match, leading to Kohli being announced as the official Test captain from the fourth match onward.
+
+      Captaincy seemed to agree with Kohli in Tests, where he hit his first double century, against the West Indies in 2016, followed by another double against New Zealand the same year, leading India to wins in both series. He hit double hundreds in his next two series against England and Bangladesh as well, becoming the first batsman to hit double centuries in four consecutive series.
+
+      Kohli captained India at the 2017 ICC Champions Trophy, but India lost to Pakistan in the final. Kohli scored two double centuries that year in a Test series against Sri Lanka. He continued to score ODI hundreds. On the 2018 tour to England, he rectified his poor run from the last England tour with a series of good scores, leading India to one win, but the team was defeated in close matches and lost the series 4–1. The same year Kohli became the 13th batsman to score 10,000 runs in ODIs, becoming the fastest to do so, in a full 54 innings fewer than Sachin Tendulkar had, previously the fastest.</p>
+    </article>
+    
+  </body>
+</html>
+
+   <body>
+     <table>
+       <thead>
+         <tr>
+           <th>Types of Tons</th>
+           <th>No.of tons</th>
+         </tr>
+       <tr>
+         <td>double tons</td>
+       </tr>
+       <tr><td>single tons</td>
+      </tr>
+       <tr>
+         <td>half centuries</td>
+       </tr>
+     </table>
+
+
+    <body>
+      <form>
+        <p>Name:<input type="text" name="virat"></p>
+        <p>Remember me:<input type="checkbox" checked></p>
+        <p>Gender: male<input type="radio" name="gender" value="M"> female<input type="radio" name="gender"></p>
+
+        <p>secuirity question:
+          <select>
+            <option>favourite colour</option>
+            <option>favourite toy</option>
+            <option selected>favourite place</option>
+        </p>
+        
+        <p><input type="submit" value="sign up"></p>
+      </form>
+   </body>
+
+<footer>
+  <p>Author: Balavardhan</p>
+  <p><a href="balavardhankollu1103@gmail.com"></a></p>
+</footer>
